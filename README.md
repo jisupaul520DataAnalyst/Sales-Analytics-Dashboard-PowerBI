@@ -50,9 +50,9 @@ This project presents an interactive Sales Analytics Dashboard developed using M
 
 ## 📁 Project Files
 
-- `Sales Data.xlsx`
-- `Sales Analytics Dashboard.pbix`
-![Sales Analytics Dashboard](Sales%20Dashboard.png)
+- [Sales Data.xlsx](Sales%20Data.xlsx) - Dataset
+- [Sales Analytics Dashboard.pbix](Sales%20Analytics%20Dashboard.pbix) - Power BI source file
+- [Sales Dashboard.png](Sales%20Dashboard.png) - Dashboard screenshot
 ## 👨‍💻 Author
 
 **Jisu Paul**
