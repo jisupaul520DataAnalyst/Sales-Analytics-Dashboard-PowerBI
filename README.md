@@ -52,8 +52,7 @@ This project presents an interactive Sales Analytics Dashboard developed using M
 
 - `Sales Data.xlsx`
 - `Sales Analytics Dashboard.pbix`
-- `Sales Dashboard.png` 
-
+![Sales Analytics Dashboard](Sales%20Dashboard.png)
 ## 👨‍💻 Author
 
 **Jisu Paul**
