@@ -46,7 +46,7 @@ This project presents an interactive Sales Analytics Dashboard developed using M
 
 ## 🖼️ Dashboard Preview
 
-![Sales Analytics Dashboard](Dashboard-Screenshot.png)
+![Sales Analytics Dashboard](Sales%20Dashboard.png)
 
 ## 📁 Project Files
 
